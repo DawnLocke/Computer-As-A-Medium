@@ -6,3 +6,6 @@ We intend for this project to be out final for the semester, and the one we pres
 - Health Pack Object: Brayden Locke
 - Health Pack Scripting: Kaden Matos
 - Trap Scripting/Object: Kaden Matos
+
+## Playthrough Video
+https://youtu.be/HtCnB-6yqWM
